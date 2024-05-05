@@ -29,13 +29,10 @@ print the characters and its huffmancode
 
  
 ## Program:
-
 ```python
-NAME : KULASEKARAPANDIAN K
-REGISTER NUMBER: 212222240052
+NAME : KAMESH D
+REGISTER NUMBER: 212222240043
 ```
-
-
 ### Get the input String
 
 ``` Python
